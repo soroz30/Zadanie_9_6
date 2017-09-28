@@ -7,5 +7,5 @@ window.onload = function() {
         var liNumber = document.getElementsByTagName('li').length;
         element.innerHTML = 'item ' + liNumber;
         list.appendChild(element);
-	});
+    });
 };
